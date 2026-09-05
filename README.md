@@ -48,7 +48,7 @@ src/
 1. Клонувати репозиторій:
 
 ```bash
-git clone ПОСИЛАННЯ_НА_РЕПОЗИТОРІЙ
+git clone [ПОСИЛАННЯ_НА_РЕПОЗИТОРІЙ](https://github.com/llens202/home-work-45-redux)
 ```
 
 2. Перейти в папку проєкту:
@@ -73,4 +73,4 @@ npm run dev
 
 ## Демо-версія
 
-[Переглянути демо](ПОСИЛАННЯ_НА_VERCEL)
+[Переглянути демо](https://home-work-45-redux-nine.vercel.app/)
